@@ -2,7 +2,7 @@
 
 이 저장소의 **main** 브랜치에 올린 내용이 자동으로 웹에 공개됩니다.
 
-**공개 주소:** https://tools24.synology.me/jang-wonseok/
+**공개 주소:** https://tools24.synology.me/wonseok/
 
 ## 올리는 법
 1. 이 저장소를 내 컴퓨터로 받기 (clone)
